@@ -19,7 +19,7 @@ My preferred framework is Flask; however, for projects requiring hardware optimi
 I have substantial experience with PostgreSQL and MongoDB, and I have worked with Elasticsearch in the past.
 
 ### Cloud Infrastructure ☁︎
-I have worked extensively with AWS and Azure, and have gained a solid understanding of Google Cloud.
+I have worked extensively with AWS and Azure, and have gained a solid understanding of Google Cloud. I also have significant experience with Docker, leveraging containerization for efficient application deployment and management. My expertise includes utilizing Docker for autoscalability, ensuring applications can seamlessly scale to meet demand.
 
 ### Embedded Software and Operating Systems 💿
 I possess knowledge in embedded software development and operating systems, enhancing my versatility in various technical environments.
